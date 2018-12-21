@@ -1,0 +1,690 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DetailViewController"
+provides-nominal:
+- "11InfyProject20DetailViewControllerC"
+provides-member:
+- ["11InfyProject20DetailViewControllerC", ""]
+provides-dynamic-lookup:
+- "ageLabel"
+- "ageTextLbl"
+- "backAction"
+- "colorLabel"
+- "descriptionTextView"
+- "didReceiveMemoryWarning"
+- "nameLabel"
+- "typeLbl"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "DetailViewController"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "NSAttributedString"
+- !private "NSAttributedStringKey"
+- !private "NSMutableParagraphStyle"
+- "String"
+- !private "StringLiteralType"
+- !private "UIFont"
+- "UILabel"
+- "UITextView"
+- "UIViewController"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["So15CALayerDelegateP", "attributedText"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "NSAttributedString"]
+- !private ["s7CVarArgP", "NSMutableParagraphStyle"]
+- !private ["s7CVarArgP", "UIFont"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "ageLabel"]
+- !private ["s7CVarArgP", "ageTextLbl"]
+- !private ["s7CVarArgP", "attributedText"]
+- !private ["s7CVarArgP", "colorLabel"]
+- !private ["s7CVarArgP", "descriptionTextView"]
+- !private ["s7CVarArgP", "detailDict"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lineSpacing"]
+- !private ["s7CVarArgP", "nameLabel"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "systemFont"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "typeLbl"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSAttributedString"]
+- !private ["s28CustomDebugStringConvertibleP", "NSMutableParagraphStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "UIFont"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "ageLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "ageTextLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "attributedText"]
+- !private ["s28CustomDebugStringConvertibleP", "colorLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "descriptionTextView"]
+- !private ["s28CustomDebugStringConvertibleP", "detailDict"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lineSpacing"]
+- !private ["s28CustomDebugStringConvertibleP", "nameLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "systemFont"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "typeLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "attributedText"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "NSAttributedString"]
+- !private ["s23CustomStringConvertibleP", "NSMutableParagraphStyle"]
+- !private ["s23CustomStringConvertibleP", "UIFont"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "ageLabel"]
+- !private ["s23CustomStringConvertibleP", "ageTextLbl"]
+- !private ["s23CustomStringConvertibleP", "attributedText"]
+- !private ["s23CustomStringConvertibleP", "colorLabel"]
+- !private ["s23CustomStringConvertibleP", "descriptionTextView"]
+- !private ["s23CustomStringConvertibleP", "detailDict"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lineSpacing"]
+- !private ["s23CustomStringConvertibleP", "nameLabel"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "systemFont"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "typeLbl"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "attributedText"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "text"]
+- !private ["11InfyProject20DetailViewControllerC", "NSAttributedString"]
+- !private ["11InfyProject20DetailViewControllerC", "NSAttributedStringKey"]
+- !private ["11InfyProject20DetailViewControllerC", "NSMutableParagraphStyle"]
+- ["11InfyProject20DetailViewControllerC", "String"]
+- !private ["11InfyProject20DetailViewControllerC", "UIFont"]
+- ["11InfyProject20DetailViewControllerC", "UILabel"]
+- ["11InfyProject20DetailViewControllerC", "UITextView"]
+- ["11InfyProject20DetailViewControllerC", "ageLabel"]
+- ["11InfyProject20DetailViewControllerC", "ageTextLbl"]
+- ["11InfyProject20DetailViewControllerC", "backAction"]
+- ["11InfyProject20DetailViewControllerC", "colorLabel"]
+- ["11InfyProject20DetailViewControllerC", "descriptionTextView"]
+- ["11InfyProject20DetailViewControllerC", "detailDict"]
+- ["11InfyProject20DetailViewControllerC", "didReceiveMemoryWarning"]
+- !private ["11InfyProject20DetailViewControllerC", "dismiss"]
+- ["11InfyProject20DetailViewControllerC", "init"]
+- ["11InfyProject20DetailViewControllerC", "nameLabel"]
+- ["11InfyProject20DetailViewControllerC", "typeLbl"]
+- ["11InfyProject20DetailViewControllerC", "viewDidLoad"]
+- !private ["SD", "subscript"]
+- !private ["SE", "attributedText"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "text"]
+- !private ["SQ", "NSAttributedString"]
+- !private ["SQ", "NSMutableParagraphStyle"]
+- !private ["SQ", "UIFont"]
+- ["SQ", ""]
+- !private ["SQ", "ageLabel"]
+- !private ["SQ", "ageTextLbl"]
+- !private ["SQ", "attributedText"]
+- !private ["SQ", "colorLabel"]
+- !private ["SQ", "descriptionTextView"]
+- !private ["SQ", "detailDict"]
+- !private ["SQ", "didReceiveMemoryWarning"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "font"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lineSpacing"]
+- !private ["SQ", "nameLabel"]
+- !private ["SQ", "paragraphStyle"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "systemFont"]
+- !private ["SQ", "text"]
+- !private ["SQ", "typeLbl"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "attributedText"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "NSAttributedString"]
+- !private ["SH", "NSMutableParagraphStyle"]
+- !private ["SH", "UIFont"]
+- ["SH", ""]
+- !private ["SH", "ageLabel"]
+- !private ["SH", "ageTextLbl"]
+- !private ["SH", "attributedText"]
+- !private ["SH", "colorLabel"]
+- !private ["SH", "descriptionTextView"]
+- !private ["SH", "detailDict"]
+- !private ["SH", "didReceiveMemoryWarning"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "font"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "lineSpacing"]
+- !private ["SH", "nameLabel"]
+- !private ["SH", "paragraphStyle"]
+- !private ["SH", "subscript"]
+- !private ["SH", "systemFont"]
+- !private ["SH", "text"]
+- !private ["SH", "typeLbl"]
+- !private ["SH", "viewDidLoad"]
+- !private ["So21NSAttributedStringKeya", "font"]
+- !private ["So21NSAttributedStringKeya", "paragraphStyle"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So18NSAttributedStringC", "init"]
+- !private ["So8NSCodingP", "NSAttributedString"]
+- !private ["So8NSCodingP", "NSMutableParagraphStyle"]
+- !private ["So8NSCodingP", "UIFont"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "ageLabel"]
+- !private ["So8NSCodingP", "ageTextLbl"]
+- !private ["So8NSCodingP", "attributedText"]
+- !private ["So8NSCodingP", "colorLabel"]
+- !private ["So8NSCodingP", "descriptionTextView"]
+- !private ["So8NSCodingP", "detailDict"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lineSpacing"]
+- !private ["So8NSCodingP", "nameLabel"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "typeLbl"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "lineSpacing"]
+- !private ["So9NSCopyingP", "systemFont"]
+- !private ["So26NSExtensionRequestHandlingP", "NSAttributedString"]
+- !private ["So26NSExtensionRequestHandlingP", "NSMutableParagraphStyle"]
+- !private ["So26NSExtensionRequestHandlingP", "UIFont"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "ageLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "ageTextLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "colorLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "descriptionTextView"]
+- !private ["So26NSExtensionRequestHandlingP", "detailDict"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "nameLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "typeLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "lineSpacing"]
+- !private ["So23NSMutableParagraphStyleC", "init"]
+- !private ["So23NSMutableParagraphStyleC", "lineSpacing"]
+- !private ["So8NSObjectC", "NSAttributedString"]
+- !private ["So8NSObjectC", "NSAttributedStringKey"]
+- !private ["So8NSObjectC", "NSMutableParagraphStyle"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIFont"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UITextView"]
+- ["So8NSObjectC", "ageLabel"]
+- ["So8NSObjectC", "ageTextLbl"]
+- !private ["So8NSObjectC", "attributedText"]
+- ["So8NSObjectC", "backAction"]
+- ["So8NSObjectC", "colorLabel"]
+- ["So8NSObjectC", "descriptionTextView"]
+- ["So8NSObjectC", "detailDict"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lineSpacing"]
+- ["So8NSObjectC", "nameLabel"]
+- !private ["So8NSObjectC", "systemFont"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "typeLbl"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "NSAttributedString"]
+- !private ["So8NSObjectP", "NSMutableParagraphStyle"]
+- !private ["So8NSObjectP", "UIFont"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "ageLabel"]
+- !private ["So8NSObjectP", "ageTextLbl"]
+- !private ["So8NSObjectP", "attributedText"]
+- !private ["So8NSObjectP", "colorLabel"]
+- !private ["So8NSObjectP", "descriptionTextView"]
+- !private ["So8NSObjectP", "detailDict"]
+- !private ["So8NSObjectP", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lineSpacing"]
+- !private ["So8NSObjectP", "nameLabel"]
+- !private ["So8NSObjectP", "systemFont"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "typeLbl"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So16NSParagraphStyleC", "init"]
+- !private ["So16NSParagraphStyleC", "lineSpacing"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "lineSpacing"]
+- !private ["Sq", "attributedText"]
+- !private ["Sq", "text"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "font"]
+- !private ["SY", "paragraphStyle"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "attributedText"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "attributedText"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "NSAttributedString"]
+- !private ["So21UIAppearanceContainerP", "NSMutableParagraphStyle"]
+- !private ["So21UIAppearanceContainerP", "UIFont"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "ageLabel"]
+- !private ["So21UIAppearanceContainerP", "ageTextLbl"]
+- !private ["So21UIAppearanceContainerP", "attributedText"]
+- !private ["So21UIAppearanceContainerP", "colorLabel"]
+- !private ["So21UIAppearanceContainerP", "descriptionTextView"]
+- !private ["So21UIAppearanceContainerP", "detailDict"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "nameLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "typeLbl"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "NSAttributedString"]
+- !private ["So18UIContentContainerP", "NSMutableParagraphStyle"]
+- !private ["So18UIContentContainerP", "UIFont"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "ageLabel"]
+- !private ["So18UIContentContainerP", "ageTextLbl"]
+- !private ["So18UIContentContainerP", "colorLabel"]
+- !private ["So18UIContentContainerP", "descriptionTextView"]
+- !private ["So18UIContentContainerP", "detailDict"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "nameLabel"]
+- !private ["So18UIContentContainerP", "typeLbl"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "attributedText"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "attributedText"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "attributedText"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "NSAttributedString"]
+- !private ["So18UIFocusEnvironmentP", "NSMutableParagraphStyle"]
+- !private ["So18UIFocusEnvironmentP", "UIFont"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "ageLabel"]
+- !private ["So18UIFocusEnvironmentP", "ageTextLbl"]
+- !private ["So18UIFocusEnvironmentP", "attributedText"]
+- !private ["So18UIFocusEnvironmentP", "colorLabel"]
+- !private ["So18UIFocusEnvironmentP", "descriptionTextView"]
+- !private ["So18UIFocusEnvironmentP", "detailDict"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "nameLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "typeLbl"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "attributedText"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "attributedText"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So30UIFocusItemScrollableContainerP", "attributedText"]
+- !private ["So30UIFocusItemScrollableContainerP", "text"]
+- !private ["So6UIFontC", "systemFont"]
+- !private ["So10UIKeyInputP", "attributedText"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSAttributedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSMutableParagraphStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIFont"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "ageLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "ageTextLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "attributedText"]
+- !private ["So30UIPasteConfigurationSupportingP", "colorLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "descriptionTextView"]
+- !private ["So30UIPasteConfigurationSupportingP", "detailDict"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "nameLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "typeLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "NSAttributedString"]
+- !private ["So11UIResponderC", "NSAttributedStringKey"]
+- !private ["So11UIResponderC", "NSMutableParagraphStyle"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIFont"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UITextView"]
+- ["So11UIResponderC", "ageLabel"]
+- ["So11UIResponderC", "ageTextLbl"]
+- !private ["So11UIResponderC", "attributedText"]
+- ["So11UIResponderC", "backAction"]
+- ["So11UIResponderC", "colorLabel"]
+- ["So11UIResponderC", "descriptionTextView"]
+- ["So11UIResponderC", "detailDict"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "dismiss"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "nameLabel"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "typeLbl"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "NSAttributedString"]
+- !private ["So30UIResponderStandardEditActionsP", "NSMutableParagraphStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "UIFont"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "ageLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "ageTextLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "attributedText"]
+- !private ["So30UIResponderStandardEditActionsP", "colorLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "descriptionTextView"]
+- !private ["So30UIResponderStandardEditActionsP", "detailDict"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "nameLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "typeLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So12UIScrollViewC", "attributedText"]
+- !private ["So12UIScrollViewC", "text"]
+- !private ["So16UIStateRestoringP", "NSAttributedString"]
+- !private ["So16UIStateRestoringP", "NSMutableParagraphStyle"]
+- !private ["So16UIStateRestoringP", "UIFont"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "ageLabel"]
+- !private ["So16UIStateRestoringP", "ageTextLbl"]
+- !private ["So16UIStateRestoringP", "colorLabel"]
+- !private ["So16UIStateRestoringP", "descriptionTextView"]
+- !private ["So16UIStateRestoringP", "detailDict"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "nameLabel"]
+- !private ["So16UIStateRestoringP", "typeLbl"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "attributedText"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "attributedText"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextInputP", "attributedText"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "attributedText"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "attributedText"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So10UITextViewC", "attributedText"]
+- !private ["So10UITextViewC", "text"]
+- !private ["So18UITraitEnvironmentP", "NSAttributedString"]
+- !private ["So18UITraitEnvironmentP", "NSMutableParagraphStyle"]
+- !private ["So18UITraitEnvironmentP", "UIFont"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "ageLabel"]
+- !private ["So18UITraitEnvironmentP", "ageTextLbl"]
+- !private ["So18UITraitEnvironmentP", "attributedText"]
+- !private ["So18UITraitEnvironmentP", "colorLabel"]
+- !private ["So18UITraitEnvironmentP", "descriptionTextView"]
+- !private ["So18UITraitEnvironmentP", "detailDict"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "nameLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "typeLbl"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "NSAttributedString"]
+- !private ["So23UIUserActivityRestoringP", "NSMutableParagraphStyle"]
+- !private ["So23UIUserActivityRestoringP", "UIFont"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "ageLabel"]
+- !private ["So23UIUserActivityRestoringP", "ageTextLbl"]
+- !private ["So23UIUserActivityRestoringP", "attributedText"]
+- !private ["So23UIUserActivityRestoringP", "colorLabel"]
+- !private ["So23UIUserActivityRestoringP", "descriptionTextView"]
+- !private ["So23UIUserActivityRestoringP", "detailDict"]
+- !private ["So23UIUserActivityRestoringP", "didReceiveMemoryWarning"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "nameLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "typeLbl"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "attributedText"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "NSAttributedString"]
+- !private ["So16UIViewControllerC", "NSAttributedStringKey"]
+- !private ["So16UIViewControllerC", "NSMutableParagraphStyle"]
+- ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UIFont"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UITextView"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "ageLabel"]
+- ["So16UIViewControllerC", "ageTextLbl"]
+- ["So16UIViewControllerC", "backAction"]
+- ["So16UIViewControllerC", "colorLabel"]
+- ["So16UIViewControllerC", "descriptionTextView"]
+- ["So16UIViewControllerC", "detailDict"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "nameLabel"]
+- ["So16UIViewControllerC", "typeLbl"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "attributedText"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "font"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "paragraphStyle"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSAttributedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSMutableParagraphStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIFont"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ageLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ageTextLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "attributedText"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "colorLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "descriptionTextView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "detailDict"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineSpacing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nameLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "systemFont"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "typeLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "attributedText"]
+- !private ["s21_ObjectiveCBridgeableP", "font"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "paragraphStyle"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s20_SwiftNewtypeWrapperP", "font"]
+- !private ["s20_SwiftNewtypeWrapperP", "paragraphStyle"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- "11InfyProject20DetailViewControllerC"
+- !private "SD"
+- !private "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "So21NSAttributedStringKeya"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So18NSAttributedStringC"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So23NSMutableParagraphStyleC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So16NSParagraphStyleC"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So6UIFontC"
+- !private "So10UIKeyInputP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So10UITextViewC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "22fb85b2e1e571a43026cca13a1a29da"

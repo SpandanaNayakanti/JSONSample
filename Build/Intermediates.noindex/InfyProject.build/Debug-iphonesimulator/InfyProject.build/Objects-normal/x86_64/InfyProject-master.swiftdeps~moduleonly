@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "36b207e48b89e73072675e84b5beff4c"
+build_time: [1544738312, 965218000]
+inputs:
+  "/Users/spandana.nayakanti/Desktop/InfyProject/InfyProject/Model/DataModel.swift": [1544611535, 0]
+  "/Users/spandana.nayakanti/Desktop/InfyProject/InfyProject/TableViewCell.swift": [1544734070, 0]
+  "/Users/spandana.nayakanti/Desktop/InfyProject/InfyProject/ViewController.swift": [1544734070, 0]
+  "/Users/spandana.nayakanti/Desktop/InfyProject/InfyProject/DetailViewController.swift": [1544738309, 0]
+  "/Users/spandana.nayakanti/Desktop/InfyProject/InfyProject/AppDelegate.swift": [1544618605, 0]
